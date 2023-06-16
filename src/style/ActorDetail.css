@@ -1,0 +1,49 @@
+.detail2 {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .detail2 h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #303f9f;
+  }
+  
+  .detail2 p {
+    margin: 5px 0;
+    color: #1f136e;
+  }
+  
+  .detail2 ul {
+    margin: 0;
+    padding-left: 20px;
+    color: #6d5656;
+  }
+  
+  .detail2 ul li {
+    list-style-type: disc;
+  }
+  
+  .detail2 button {
+    background-color: #673ab7;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .detail2 button:hover {
+    background-color: #512da8;
+  }
+  
